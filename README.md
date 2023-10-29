@@ -15,10 +15,10 @@ The solution should model the creation of pizzas in memory.
 
 All pizzas will start with some kind of base:
 
-Regular Base
-Thick Sole
-Gluten Free Base
-And so on.
+- Regular Base
+- Thick Case
+- Gluten Free Base
+
 
 
 The pizza will then be 'decorated' with toppings.
